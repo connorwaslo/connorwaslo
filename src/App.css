@@ -1,0 +1,15 @@
+#container {
+    height: auto;
+    overflow: hidden;
+}
+
+#right {
+    float: right;
+    background-color: gray;
+}
+
+#left {
+    float: none;
+    overflow: hidden;
+    height: 100vh;
+}

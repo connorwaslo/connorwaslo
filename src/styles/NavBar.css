@@ -1,0 +1,37 @@
+nav {
+    width: 77vw;
+    background-color: #2E86C1;
+    overflow: hidden;
+}
+
+nav ul li {
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 14px 50px 14px 50px;
+    border-left: 1px solid black;
+    border-bottom: 2px solid black;
+}
+
+#rightTab {
+    border-right: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #283747;
+}
+
+.unselectedTab {
+    border-bottom: 2px solid black;
+}
+
+.selectedTab {
+    border-bottom: 0px;
+}

@@ -1,0 +1,42 @@
+#infoBarContainer {
+    width: 23vw;
+    height: 100vh;
+    background-color: #2E86C1;
+    overflow: auto;
+}
+
+#infoListOuter {
+    padding: 8px 0px 0px 40px;
+}
+
+ul {
+    margin: 0;
+}
+
+.paddedList {
+    margin: 8px
+}
+
+.paddedList li {
+    margin: 8px;
+}
+
+ul#infoListOuter li {
+    list-style-image: url('../res/open-iconic/svg/folder.svg');
+}
+
+ul#infoListSchool li {
+    list-style-image: url('../res/open-iconic/svg/file.svg');
+}
+
+ul#infoListSports li {
+    list-style-image: url('../res/open-iconic/svg/file.svg');
+}
+
+ul#infoListBusiness li {
+    list-style-image: url('../res/open-iconic/svg/file.svg');
+}
+
+ul#infoListProgramming li {
+    list-style-image: url('../res/open-iconic/svg/terminal.svg');
+}
