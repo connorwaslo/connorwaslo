@@ -1,5 +1,6 @@
 nav {
     width: 77vw;
+    height: 7vh;
     background-color: #2E86C1;
     overflow: hidden;
 }
@@ -28,10 +29,14 @@ a:hover {
     color: #283747;
 }
 
+a:active {
+    color: black;
+}
+
 .unselectedTab {
     border-bottom: 2px solid black;
 }
 
 .selectedTab {
-    border-bottom: 0px;
+    border-left: 1px solid black;
 }

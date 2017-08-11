@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import { InfoBar } from './components/InfoBar';
 import { NavBar } from './components/NavBar';
+import { SourceCode } from './components/SourceCode';
 
 export default class App extends Component {
     render() {
@@ -12,6 +13,9 @@ export default class App extends Component {
                 </div>
                 <div id="left">
                     <InfoBar />
+                </div>
+                <div id="source">
+                    <SourceCode />
                 </div>
             </div>
         );

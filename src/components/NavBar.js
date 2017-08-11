@@ -9,35 +9,21 @@ export class NavBar extends React.Component {
         super();
 
         this.state = {
-            tabClass: '.unselectedTab'
-        };
-
-        this.handleClickTab = this.handleClickTab.bind(this);
+            activeIndex: 0
+        }
     }
 
     render() {
         return (
             <nav>
                 <ul>
-                    <li className={this.state.tabClass}><a href="google.com"
-                                                           onClick={this.handleClickTab}>About</a></li>
-                    <li className={this.state.tabClass}><a href="google.com"
-                                                           onClick={this.handleClickTab}>Skills</a></li>
-                    <li className={this.state.tabClass}><a href="google.com"
-                                                           onClick={this.handleClickTab}>Portfolio</a></li>
-                    <li className={this.state.tabClass}><a href="google.com"
-                                                           onClick={this.handleClickTab}>Education</a></li>
-                    <li id="rightTab"
-                        className={this.state.tabClass}><a href="google.com"
-                                                           onClick={this.handleClickTab}>Contact</a></li>
+                    <li><a href="javasript:;">About</a></li>
+                    <li><a href="javasript:;">Skills</a></li>
+                    <li><a href="javasript:;">Portfolio</a></li>
+                    <li><a href="javasript:;">Education</a></li>
+                    <li id="rightTab"><a href="javasript:;">Contact</a></li>
                 </ul>
             </nav>
         );
-    }
-
-    handleClickTab() {
-        this.setState({
-            tabClass: '.selectedTab',
-        });
     }
 }
