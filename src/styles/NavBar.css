@@ -5,32 +5,20 @@ nav {
     overflow: hidden;
 }
 
-nav ul li {
+nav ul button {
     color: white;
     display: inline-block;
     list-style-type: none;
     text-decoration: none;
     font-size: 24px;
     padding: 14px 50px 14px 50px;
+    border: none;
     border-left: 1px solid black;
-    border-bottom: 2px solid black;
+    border-bottom: 8px solid black;
 }
 
 #rightTab {
     border-right: 1px solid black;
-}
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover {
-    color: #283747;
-}
-
-a:active {
-    color: black;
 }
 
 .unselectedTab {

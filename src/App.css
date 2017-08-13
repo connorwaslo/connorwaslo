@@ -20,3 +20,10 @@
     left: 23vw;
     top: 7vh;
 }
+
+#content {
+    float: none;
+    position: absolute;
+    left: 48vw;
+    top: 7vh;
+}

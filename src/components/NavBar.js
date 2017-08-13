@@ -9,7 +9,9 @@ export class NavBar extends React.Component {
         super();
 
         this.state = {
-            activeIndex: 0
+            colors: [
+                '#609af7', '#2E86C1', '#2E86C1', '#2E86C1', '#2E86C1'
+            ]
         }
     }
 
@@ -17,13 +19,31 @@ export class NavBar extends React.Component {
         return (
             <nav>
                 <ul>
-                    <li><a href="javasript:;">About</a></li>
-                    <li><a href="javasript:;">Skills</a></li>
-                    <li><a href="javasript:;">Portfolio</a></li>
-                    <li><a href="javasript:;">Education</a></li>
-                    <li id="rightTab"><a href="javasript:;">Contact</a></li>
+                    <button style={{backgroundColor: this.state.colors[0]}} onClick={() => this._updateActiveTabs(0)}>About</button>
+                    <button style={{backgroundColor: this.state.colors[1]}} onClick={() => this._updateActiveTabs(1)}>Skills</button>
+                    <button style={{backgroundColor: this.state.colors[2]}} onClick={() => this._updateActiveTabs(2)}>Portfolio</button>
+                    <button style={{backgroundColor: this.state.colors[3]}} onClick={() => this._updateActiveTabs(3)}>Education</button>
+                    <button style={{backgroundColor: this.state.colors[4]}} onClick={() => this._updateActiveTabs(4)}>Contact</button>
                 </ul>
             </nav>
         );
+    }
+
+    _updateActiveTabs(index) {
+        let temp = [];
+
+        for (let i = 0; i < this.state.colors.length; i++) {
+            if (i !== index) {
+                temp.push('#2E86C1');
+            } else {
+                temp.push('#609af7');
+            }
+        }
+
+        this.setState({
+            colors: temp
+        });
+
+        console.log(temp);
     }
 }

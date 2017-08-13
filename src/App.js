@@ -3,6 +3,7 @@ import './App.css';
 import { InfoBar } from './components/InfoBar';
 import { NavBar } from './components/NavBar';
 import { SourceCode } from './components/SourceCode';
+import { ContentPage } from './components/ContentPage';
 
 export default class App extends Component {
     render() {
@@ -16,6 +17,9 @@ export default class App extends Component {
                 </div>
                 <div id="source">
                     <SourceCode />
+                </div>
+                <div id="content">
+                    <ContentPage />
                 </div>
             </div>
         );
