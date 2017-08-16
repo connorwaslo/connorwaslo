@@ -1,6 +1,7 @@
 #container {
     height: auto;
     overflow: hidden;
+    background-color: #215e87;
 }
 
 #right {

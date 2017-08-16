@@ -25,19 +25,20 @@ export class SourceCode extends React.Component {
     render() {
         return (
             <div id="sourceContainer">
-                <div id="lineNumbers">
+
+                <img src={require('../res/source-code-images/SourceCodejs-Small.png')}/>
+
+                {/*<div id="lineNumbers">
                     {this._getLineNumbers()}
                 </div>
                 <div id="code">
                     {this._getCode()}
-                </div>
+                </div>*/}
             </div>
         );
     }
 
-    // Inception
     _getCode() {
-        
     }
 
     _getLineNumbers() {
