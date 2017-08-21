@@ -11,6 +11,9 @@ export class NavBar extends React.Component {
         this.state = {
             colors: [
                 '#609af7', '#2E86C1', '#2E86C1', '#2E86C1', '#2E86C1'
+            ],
+            tabs: [
+                1, 0, 0, 0, 0
             ]
         }
     }
@@ -31,19 +34,23 @@ export class NavBar extends React.Component {
 
     _updateActiveTabs(index) {
         let temp = [];
+        let tempTab = [];
 
         for (let i = 0; i < this.state.colors.length; i++) {
             if (i !== index) {
                 temp.push('#2E86C1');
+                tempTab.push(0);
             } else {
                 temp.push('#609af7');
+                tempTab.push(1);
             }
         }
 
         this.setState({
-            colors: temp
+            colors: temp,
+            tabs: tempTab
+        }, () => {
+            this.props.updateTabs(this.state.tabs);
         });
-
-        console.log(temp);
     }
 }

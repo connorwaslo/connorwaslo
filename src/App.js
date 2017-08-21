@@ -6,22 +6,37 @@ import { SourceCode } from './components/SourceCode';
 import { ContentPage } from './components/ContentPage';
 
 export default class App extends Component {
+    constructor() {
+        super();
+
+        this.state = {
+            tabs: [1, 0, 0, 0, 0]
+        }
+    }
+
+    // TODO: Display different page depending on which tab is active
     render() {
         return (
             <div id="container">
                 <div id="right">
-                    <NavBar />
+                    <NavBar updateTabs={this._handleTabs.bind(this)}/>
                 </div>
                 <div id="left">
-                    <InfoBar />
+                    <InfoBar/>
                 </div>
                 <div id="source">
-                    <SourceCode />
+                    <SourceCode/>
                 </div>
                 <div id="content">
-                    <ContentPage />
+                    <ContentPage tabs={this.state.tabs}/>
                 </div>
             </div>
         );
+    }
+
+    _handleTabs(tabIndex) {
+        this.setState({
+            tabs: tabIndex
+        });
     }
 }
