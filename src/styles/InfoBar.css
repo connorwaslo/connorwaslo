@@ -6,7 +6,7 @@
 }
 
 #infoListOuter {
-    padding: 8px 0px 0px 40px;
+    padding: 1vh 0 0 1vw;
 }
 
 ul {
@@ -14,11 +14,11 @@ ul {
 }
 
 .paddedList {
-    margin: 8px
+    margin: .2vw;
 }
 
 .paddedList li {
-    margin: 8px;
+    margin: .2vw;
 }
 
 ul#infoListOuter li {

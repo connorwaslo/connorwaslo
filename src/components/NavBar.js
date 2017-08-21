@@ -26,7 +26,7 @@ export class NavBar extends React.Component {
                     <button style={{backgroundColor: this.state.colors[1]}} onClick={() => this._updateActiveTabs(1)}>Skills</button>
                     <button style={{backgroundColor: this.state.colors[2]}} onClick={() => this._updateActiveTabs(2)}>Portfolio</button>
                     <button style={{backgroundColor: this.state.colors[3]}} onClick={() => this._updateActiveTabs(3)}>Education</button>
-                    <button style={{backgroundColor: this.state.colors[4]}} onClick={() => this._updateActiveTabs(4)}>Contact</button>
+                    <button id="rightTab" style={{backgroundColor: this.state.colors[4]}} onClick={() => this._updateActiveTabs(4)}>Contact</button>
                 </ul>
             </nav>
         );

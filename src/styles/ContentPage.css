@@ -1,6 +1,7 @@
 #contentContainer {
     width: 51.7vw;
     height: 93vh;
+    min-width: 400px;
     background-color: #215e87;
     border-left: 2px solid black;
     overflow: hidden;

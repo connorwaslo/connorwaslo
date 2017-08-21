@@ -6,48 +6,54 @@ export class SourceCode extends React.Component {
         super();
 
         this.state = {
-            lines: []
+            tab: [1, 0, 0, 0, 0],
+            currTab: 0
         };
     }
 
-    componentDidMount() {
-        let temp = [];
+    componentWillReceiveProps(nextProps) {
+        this.setState({
+            tab: nextProps.tabs
+        });
 
-        for (let i = 0; i < 3; i++) {
-            temp.push(i + 1);
+        let temp = 0;
+        for (let i = 0; i < this.state.tab.length; i++) {
+            if (this.state.tab[i] === 1) {
+                temp = i;
+                break;
+            }
         }
 
         this.setState({
-            lines: temp
+            currTab: temp
         });
     }
 
     render() {
         return (
             <div id="sourceContainer">
+                {/*<img src={require('../res/source-code-images/SourceCodejs-Small.png')}/>*/}
 
-                <img src={require('../res/source-code-images/SourceCodejs-Small.png')}/>
-
-                {/*<div id="lineNumbers">
-                    {this._getLineNumbers()}
-                </div>
-                <div id="code">
-                    {this._getCode()}
-                </div>*/}
+                {this._getCode(this.state.currTab)}
             </div>
         );
     }
 
-    _getCode() {
-    }
-
-    _getLineNumbers() {
-        return this.state.lines.map(
-            (i) => {
-                return (
-                    <p>{i}</p>
-                );
+    _getCode(currTab) {
+        for (let i = 0; i < this.state.tab.length; i++) {
+            if (this.state.tab[i] === 1) {
+                if (i === 0) {
+                    return <div id="aboutSourceContainer"/>
+                } else if (i === 1) {
+                    return <div id="skillsSourceContainer"/>
+                } else if (i === 2) {
+                    return <div id="portfolioSourceContainer"/>
+                } else if (i === 3) {
+                    return <div id="educationSourceContainer"/>
+                } else {
+                    return <div id="contactSourceContainer"/>
+                }
             }
-        );
+        }
     }
 }

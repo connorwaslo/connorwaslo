@@ -12,20 +12,21 @@ export default class App extends Component {
         this.state = {
             tabs: [1, 0, 0, 0, 0]
         }
+
+        this.handleTabs = this._handleTabs.bind(this);
     }
 
-    // TODO: Display different page depending on which tab is active
     render() {
         return (
             <div id="container">
                 <div id="right">
-                    <NavBar updateTabs={this._handleTabs.bind(this)}/>
+                    <NavBar updateTabs={this.handleTabs}/>
                 </div>
                 <div id="left">
                     <InfoBar/>
                 </div>
                 <div id="source">
-                    <SourceCode/>
+                    <SourceCode tabs={this.state.tabs}/>
                 </div>
                 <div id="content">
                     <ContentPage tabs={this.state.tabs}/>

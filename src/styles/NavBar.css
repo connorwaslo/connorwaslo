@@ -6,15 +6,16 @@ nav {
 }
 
 nav ul button {
+    height: 7vh;
     color: white;
     display: inline-block;
     list-style-type: none;
     text-decoration: none;
     font-size: 24px;
-    padding: 14px 50px 14px 50px;
+    padding: 1vh 3vw 1vh 3vw;
     border: none;
     border-left: 1px solid black;
-    border-bottom: 8px solid black;
+    border-bottom: 1px solid black;
 }
 
 #rightTab {
