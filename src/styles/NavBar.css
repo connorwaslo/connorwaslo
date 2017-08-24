@@ -1,5 +1,5 @@
 nav {
-    min-width: 100px;
+    min-width: 250px;
     width: 77vw;
     height: 7vh;
     background-color: #2E86C1;
@@ -22,12 +22,4 @@ nav ul button {
 
 #rightTab {
     border-right: 1px solid black;
-}
-
-.unselectedTab {
-    border-bottom: 2px solid black;
-}
-
-.selectedTab {
-    border-left: 1px solid black;
 }
