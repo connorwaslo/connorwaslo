@@ -1,8 +1,9 @@
 #sourceContainer {
+    min-width: 300px;
     width: 25vw;
     height: 93vh;
-    min-width: 200px;
     border-right: 2px solid black;
+    overflow: auto;
 }
 
 #sourceContainer img {
@@ -13,6 +14,7 @@
 
 #aboutSourceContainer {
     background-color: silver;
+    min-width: 300px;
     width: 55vw;
     height: 92.5vh;
 }

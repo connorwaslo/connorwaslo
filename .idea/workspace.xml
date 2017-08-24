@@ -2,1350 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dac8c73a-6885-4bdf-8402-4d7d9bc9fd54" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-login-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-login-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-login-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-login-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-login-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-logout-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-logout-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-logout-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-logout-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-logout-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/account-logout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-redo-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-redo-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-redo-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-redo-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-redo-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-undo-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-undo-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-undo-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-undo-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-undo-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/action-undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-center-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-center-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-center-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-center-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-center-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/align-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/aperture-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/aperture-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/aperture-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/aperture-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/aperture-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/aperture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-bottom-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-bottom-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-bottom-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-bottom-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-bottom-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-bottom-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-bottom-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-bottom-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-bottom-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-bottom-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-top-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-top-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-top-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-top-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-top-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-circle-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-bottom-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-bottom-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-bottom-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-bottom-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-bottom-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-top-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-top-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-top-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-top-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-top-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-thick-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-top-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-top-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-top-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-top-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-top-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/arrow-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-spectrum-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-spectrum-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-spectrum-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-spectrum-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-spectrum-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio-spectrum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/audio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/badge-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/badge-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/badge-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/badge-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/badge-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ban-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ban-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ban-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ban-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ban-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ban.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bar-chart-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bar-chart-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bar-chart-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bar-chart-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bar-chart-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bar-chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/basket-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/basket-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/basket-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/basket-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/basket-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/basket.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-empty-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-empty-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-empty-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-empty-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-empty-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-empty.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-full-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-full-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-full-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-full-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-full-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/battery-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/beaker-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/beaker-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/beaker-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/beaker-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/beaker-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/beaker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bell-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bell-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bell-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bell-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bell-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bluetooth-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bluetooth-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bluetooth-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bluetooth-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bluetooth-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bluetooth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bold-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bold-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bold-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bold-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bold-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bold.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bolt-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bolt-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bolt-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bolt-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bolt-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bolt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/book-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/book-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/book-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/book-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/book-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/book.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bookmark-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bookmark-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bookmark-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bookmark-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bookmark-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bookmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/box-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/box-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/box-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/box-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/box-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/box.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/briefcase-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/briefcase-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/briefcase-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/briefcase-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/briefcase-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/briefcase.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/british-pound-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/british-pound-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/british-pound-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/british-pound-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/british-pound-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/british-pound.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/browser-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/browser-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/browser-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/browser-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/browser-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/brush-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/brush-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/brush-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/brush-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/brush-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/brush.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bug-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bug-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bug-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bug-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bug-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bug.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bullhorn-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bullhorn-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bullhorn-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bullhorn-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bullhorn-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/bullhorn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calculator-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calculator-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calculator-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calculator-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calculator-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calculator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calendar-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calendar-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calendar-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calendar-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calendar-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/camera-slr-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/camera-slr-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/camera-slr-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/camera-slr-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/camera-slr-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/camera-slr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-bottom-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-bottom-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-bottom-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-bottom-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-bottom-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-top-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-top-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-top-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-top-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-top-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/caret-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cart-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cart-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cart-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cart-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cart-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chat-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chat-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chat-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chat-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chat-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/check-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/check-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/check-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/check-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/check-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-bottom-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-bottom-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-bottom-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-bottom-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-bottom-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-top-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-top-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-top-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-top-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-top-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/chevron-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-check-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-check-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-check-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-check-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-check-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-x-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-x-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-x-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-x-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-x-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/circle-x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clipboard-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clipboard-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clipboard-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clipboard-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clipboard-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clipboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clock-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clock-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clock-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clock-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clock-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-download-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-download-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-download-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-download-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-download-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-upload-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-upload-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-upload-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-upload-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-upload-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud-upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloudy-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloudy-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloudy-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloudy-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloudy-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cloudy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/code-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/code-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/code-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/code-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/code-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cog-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cog-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cog-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cog-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cog-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/cog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-down-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-down-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-down-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-down-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-down-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-up-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-up-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-up-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-up-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-up-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/collapse-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/command-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/command-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/command-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/command-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/command-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/command.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/comment-square-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/comment-square-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/comment-square-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/comment-square-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/comment-square-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/comment-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/compass-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/compass-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/compass-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/compass-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/compass-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/compass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/contrast-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/contrast-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/contrast-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/contrast-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/contrast-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/contrast.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/copywriting-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/copywriting-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/copywriting-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/copywriting-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/copywriting-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/copywriting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/credit-card-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/credit-card-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/credit-card-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/credit-card-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/credit-card-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/credit-card.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/crop-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/crop-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/crop-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/crop-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/crop-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/crop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dashboard-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dashboard-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dashboard-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dashboard-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dashboard-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dashboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-download-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-download-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-download-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-download-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-download-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-upload-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-upload-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-upload-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-upload-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-upload-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/data-transfer-upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/delete-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/delete-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/delete-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/delete-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/delete-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dial-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dial-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dial-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dial-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dial-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dial.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/document-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/document-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/document-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/document-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/document-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/document.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dollar-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dollar-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dollar-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dollar-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dollar-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/dollar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-sans-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/double-quote-serif-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/droplet-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/droplet-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/droplet-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/droplet-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/droplet-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/droplet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eject-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eject-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eject-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eject-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eject-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eject.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/elevator-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/elevator-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/elevator-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/elevator-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/elevator-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/elevator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ellipses-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ellipses-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ellipses-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ellipses-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ellipses-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/ellipses.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-closed-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-closed-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-closed-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-closed-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-closed-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-closed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-open-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-open-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-open-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-open-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-open-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/envelope-open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/euro-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/euro-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/euro-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/euro-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/euro-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/euro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/excerpt-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/excerpt-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/excerpt-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/excerpt-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/excerpt-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/excerpt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-down-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-down-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-down-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-down-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-down-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-up-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-up-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-up-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-up-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-up-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/expand-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/external-link-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/external-link-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/external-link-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/external-link-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/external-link-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/external-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eye-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eye-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eye-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eye-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eye-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eyedropper-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eyedropper-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eyedropper-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eyedropper-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eyedropper-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/eyedropper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/file-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/file-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/file-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/file-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/file-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fire-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fire-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fire-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fire-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fire-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flag-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flag-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flag-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flag-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flag-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flash-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flash-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flash-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flash-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flash-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/flash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/folder-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/folder-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/folder-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/folder-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/folder-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fork-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fork-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fork-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fork-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fork-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fork.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-enter-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-enter-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-enter-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-enter-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-enter-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-enter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-exit-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-exit-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-exit-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-exit-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-exit-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/fullscreen-exit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/globe-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/globe-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/globe-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/globe-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/globe-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/globe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/graph-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/graph-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/graph-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/graph-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/graph-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/graph.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-four-up-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-four-up-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-four-up-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-four-up-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-four-up-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-four-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-three-up-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-three-up-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-three-up-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-three-up-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-three-up-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-three-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-two-up-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-two-up-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-two-up-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-two-up-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-two-up-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/grid-two-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/hard-drive-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/hard-drive-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/hard-drive-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/hard-drive-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/hard-drive-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/hard-drive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/header-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/header-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/header-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/header-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/header-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/headphones-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/headphones-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/headphones-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/headphones-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/headphones-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/headphones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/heart-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/heart-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/heart-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/heart-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/heart-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/heart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/home-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/home-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/home-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/home-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/home-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/image-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/image-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/image-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/image-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/image-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/inbox-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/inbox-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/inbox-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/inbox-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/inbox-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/inbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/infinity-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/infinity-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/infinity-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/infinity-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/infinity-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/infinity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/info-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/info-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/info-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/info-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/info-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/italic-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/italic-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/italic-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/italic-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/italic-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/italic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-center-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-center-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-center-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-center-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-center-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-left-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-left-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-left-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-left-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-left-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-right-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-right-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-right-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-right-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-right-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/justify-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/key-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/key-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/key-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/key-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/key-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/laptop-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/laptop-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/laptop-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/laptop-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/laptop-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/laptop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/layers-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/layers-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/layers-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/layers-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/layers-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/layers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lightbulb-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lightbulb-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lightbulb-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lightbulb-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lightbulb-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lightbulb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-broken-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-broken-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-broken-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-broken-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-broken-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-broken.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-intact-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-intact-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-intact-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-intact-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-intact-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/link-intact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-rich-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-rich-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-rich-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-rich-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-rich-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list-rich.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/location-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/location-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/location-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/location-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/location-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/location.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-locked-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-locked-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-locked-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-locked-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-locked-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-unlocked-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-unlocked-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-unlocked-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-unlocked-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-unlocked-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/lock-unlocked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-circular-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-circular-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-circular-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-circular-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-circular-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-circular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-square-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-square-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-square-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-square-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-square-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/loop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/magnifying-glass-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/magnifying-glass-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/magnifying-glass-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/magnifying-glass-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/magnifying-glass-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/magnifying-glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-marker-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-marker-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-marker-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-marker-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-marker-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map-marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/map.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-pause-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-pause-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-pause-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-pause-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-pause-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-play-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-play-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-play-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-play-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-play-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-record-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-record-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-record-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-record-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-record-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-record.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-backward-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-backward-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-backward-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-backward-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-backward-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-backward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-forward-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-forward-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-forward-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-forward-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-forward-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-skip-forward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-backward-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-backward-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-backward-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-backward-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-backward-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-backward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-forward-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-forward-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-forward-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-forward-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-forward-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-step-forward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-stop-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-stop-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-stop-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-stop-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-stop-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/media-stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/medical-cross-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/medical-cross-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/medical-cross-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/medical-cross-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/medical-cross-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/medical-cross.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/menu-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/menu-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/menu-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/menu-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/menu-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/microphone-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/microphone-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/microphone-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/microphone-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/microphone-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/microphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/minus-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/minus-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/minus-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/minus-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/minus-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/monitor-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/monitor-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/monitor-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/monitor-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/monitor-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/moon-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/moon-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/moon-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/moon-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/moon-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/moon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/move-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/move-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/move-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/move-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/move-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/move.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/musical-note-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/musical-note-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/musical-note-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/musical-note-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/musical-note-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/musical-note.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/paperclip-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/paperclip-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/paperclip-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/paperclip-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/paperclip-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/paperclip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pencil-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pencil-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pencil-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pencil-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pencil-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/people-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/people-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/people-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/people-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/people-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/people.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/person-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/person-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/person-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/person-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/person-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/person.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/phone-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/phone-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/phone-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/phone-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/phone-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pie-chart-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pie-chart-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pie-chart-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pie-chart-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pie-chart-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pie-chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pin-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pin-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pin-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pin-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pin-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/play-circle-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/play-circle-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/play-circle-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/play-circle-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/play-circle-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/play-circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/plus-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/plus-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/plus-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/plus-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/plus-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/power-standby-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/power-standby-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/power-standby-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/power-standby-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/power-standby-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/power-standby.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/print-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/print-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/print-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/print-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/print-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/project-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/project-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/project-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/project-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/project-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/project.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pulse-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pulse-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pulse-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pulse-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pulse-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/pulse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/puzzle-piece-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/puzzle-piece-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/puzzle-piece-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/puzzle-piece-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/puzzle-piece-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/puzzle-piece.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/question-mark-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/question-mark-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/question-mark-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/question-mark-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/question-mark-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/question-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rain-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rain-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rain-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rain-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rain-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/random-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/random-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/random-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/random-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/random-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/random.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/reload-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/reload-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/reload-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/reload-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/reload-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/reload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-both-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-both-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-both-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-both-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-both-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-both.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-height-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-height-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-height-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-height-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-height-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-width-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-width-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-width-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-width-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-width-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/resize-width.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-alt-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-alt-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-alt-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-alt-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-alt-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss-alt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/script-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/script-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/script-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/script-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/script-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/script.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-boxed-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-boxed-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-boxed-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-boxed-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-boxed-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share-boxed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/shield-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/shield-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/shield-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/shield-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/shield-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/shield.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signal-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signal-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signal-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signal-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signal-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signpost-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signpost-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signpost-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signpost-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signpost-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/signpost.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-ascending-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-ascending-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-ascending-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-ascending-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-ascending-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-ascending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-descending-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-descending-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-descending-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-descending-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-descending-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sort-descending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/spreadsheet-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/spreadsheet-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/spreadsheet-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/spreadsheet-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/spreadsheet-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/spreadsheet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/star-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/star-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/star-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/star-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/star-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sun-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sun-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sun-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sun-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sun-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/sun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tablet-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tablet-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tablet-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tablet-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tablet-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tablet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tag-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tag-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tag-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tag-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tag-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tags-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tags-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tags-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tags-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tags-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/tags.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/target-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/target-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/target-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/target-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/target-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/task-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/task-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/task-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/task-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/task-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/task.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/terminal-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/terminal-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/terminal-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/terminal-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/terminal-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/terminal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/text-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/text-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/text-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/text-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/text-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-down-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-down-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-down-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-down-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-down-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-up-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-up-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-up-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-up-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-up-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/thumb-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/timer-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/timer-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/timer-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/timer-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/timer-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/timer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/transfer-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/transfer-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/transfer-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/transfer-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/transfer-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/transfer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/trash-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/trash-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/trash-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/trash-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/trash-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/trash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/underline-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/underline-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/underline-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/underline-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/underline-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/underline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-bottom-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-bottom-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-bottom-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-bottom-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-bottom-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-center-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-center-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-center-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-center-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-center-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-top-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-top-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-top-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-top-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-top-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/vertical-align-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/video-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/video-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/video-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/video-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/video-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-high-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-high-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-high-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-high-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-high-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-high.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-low-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-low-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-low-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-low-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-low-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-low.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-off-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-off-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-off-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-off-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-off-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/volume-off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/warning-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/warning-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/warning-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/warning-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/warning-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wifi-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wifi-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wifi-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wifi-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wifi-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wifi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wrench-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wrench-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wrench-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wrench-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wrench-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/wrench.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/x-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/x-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/x-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/x-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/x-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/yen-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/yen-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/yen-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/yen-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/yen-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/yen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-in-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-in-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-in-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-in-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-in-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-in.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-out-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-out-3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-out-4x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-out-6x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-out-8x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/res/open-iconic/png/zoom-out.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Check.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/NavBar.js" afterPath="$PROJECT_DIR$/src/components/NavBar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SourceCode.js" afterPath="$PROJECT_DIR$/src/components/SourceCode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/InfoBar.js" afterPath="$PROJECT_DIR$/src/components/InfoBar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/ContentPage.css" afterPath="$PROJECT_DIR$/src/styles/ContentPage.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/InfoBar.css" afterPath="$PROJECT_DIR$/src/styles/InfoBar.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/NavBar.css" afterPath="$PROJECT_DIR$/src/styles/NavBar.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/SourceCode.css" afterPath="$PROJECT_DIR$/src/styles/SourceCode.css" />
     </list>
@@ -1364,8 +27,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="560">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -1373,8 +36,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -1396,38 +59,28 @@
       <file leaf-file-name="SourceCode.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/SourceCode.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="35">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InfoBar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/InfoBar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InfoBar.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InfoBar.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/InfoBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="665">
+              <caret line="31" column="68" lean-forward="false" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavBar.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NavBar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/NavBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="910">
-              <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            <state relative-caret-position="630">
+              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding>
                 <element signature="e#41#67#0" expanded="true" />
               </folding>
@@ -1438,28 +91,8 @@
       <file leaf-file-name="ContentPage.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/ContentPage.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavBar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles/NavBar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PortfolioScreen.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/screens/PortfolioScreen.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            <state relative-caret-position="280">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1497,7 +130,6 @@
         <option value="$PROJECT_DIR$/src/Navbar.js" />
         <option value="$PROJECT_DIR$/src/nav/Navbar.js" />
         <option value="$PROJECT_DIR$/src/nav/Navbar.css" />
-        <option value="$PROJECT_DIR$/src/components/InfoBar.js" />
         <option value="$PROJECT_DIR$/src/components/screens/EducationScreen.css" />
         <option value="$PROJECT_DIR$/src/styles/screens/AboutScreen.css" />
         <option value="$PROJECT_DIR$/src/components/screens/AboutScreen.js" />
@@ -1510,14 +142,16 @@
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/build/index.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/.htaccess" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/SourceCode.js" />
+        <option value="$PROJECT_DIR$/src/components/NavBar.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/styles/SourceCode.css" />
         <option value="$PROJECT_DIR$/src/styles/ContentPage.css" />
-        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/styles/InfoBar.css" />
         <option value="$PROJECT_DIR$/src/styles/NavBar.css" />
-        <option value="$PROJECT_DIR$/src/components/NavBar.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/InfoBar.js" />
       </list>
     </option>
   </component>
@@ -1739,12 +373,12 @@
       <workItem from="1502248468823" duration="5766000" />
       <workItem from="1502419491398" duration="17743000" />
       <workItem from="1502645317449" duration="6380000" />
-      <workItem from="1503066921588" duration="20130000" />
+      <workItem from="1503066921588" duration="27734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68905000" />
+    <option name="totallyTimeSpent" value="76509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3232" height="1832" extended-state="6" />
@@ -1758,7 +392,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09740671" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26691967" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1926,13 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/res/source-code-images/SourceCodejs.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2081,16 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SourceCode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="596">
@@ -2099,7 +716,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
+    <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -2109,51 +726,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/SourceCode.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/InfoBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/InfoBar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="35">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/ContentPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="280">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/NavBar.css">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="1295">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/NavBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        <state relative-caret-position="630">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding>
             <element signature="e#41#67#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/NavBar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/InfoBar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/InfoBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="31" column="68" lean-forward="false" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>

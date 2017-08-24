@@ -11,25 +11,30 @@ export default class App extends Component {
 
         this.state = {
             tabs: [1, 0, 0, 0, 0]
-        }
+        };
 
         this.handleTabs = this._handleTabs.bind(this);
     }
 
+    // TODO: Change mouse over navbar buttons
     render() {
         return (
             <div id="container">
-                <div id="right">
-                    <NavBar updateTabs={this.handleTabs}/>
+                <div id="leftContainer">
+                    <div id="right">
+                        <NavBar updateTabs={this.handleTabs}/>
+                    </div>
+                    <div id="left">
+                        <InfoBar/>
+                    </div>
                 </div>
-                <div id="left">
-                    <InfoBar/>
-                </div>
-                <div id="source">
-                    <SourceCode tabs={this.state.tabs}/>
-                </div>
-                <div id="content">
-                    <ContentPage tabs={this.state.tabs}/>
+                <div id="rightContainer">
+                    <div id="source">
+                        <SourceCode tabs={this.state.tabs}/>
+                    </div>
+                    <div id="content">
+                        <ContentPage tabs={this.state.tabs}/>
+                    </div>
                 </div>
             </div>
         );

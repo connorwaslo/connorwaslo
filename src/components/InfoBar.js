@@ -13,23 +13,23 @@ export class InfoBar extends React.Component {
                     <ul id="infoListMiddle" className="paddedList">
                         <li>BASIS Phoenix</li>
                             <ul id="infoListSchool" className="paddedList">
-                                <li>4.00 GPA</li>
-                                <li>15 AP Exams</li>
-                                <li>Student of the Year 2014-17</li>
+                                <li>4.00 GPA.js</li>
+                                <li>15 AP Exams.js</li>
+                                <li>Student of the Year 2014-17.js</li>
                             </ul>
                         <li>Sports</li>
                             <ul id="infoListSports" className="paddedList">
-                                <li>Varsity Volleyball Captain</li>
-                                <li>Varsity Basketball</li>
+                                <li>Varsity Volleyball Captain.css</li>
+                                <li>Varsity Basketball.css</li>
                             </ul>
                         <li>Business</li>
                             <ul id="infoListBusiness" className="paddedList">
                                 <li>The Genius Factory (Tutoring Startup)</li>
                                     <ul id="theGeniusFactory" className="paddedList">
-                                        <li>Software Development Intern</li>
-                                        <li>Tutor</li>
-                                        <li>Sales Representative</li>
-                                        <li>Advisory Board Member</li>
+                                        <li>Software Development Intern.js</li>
+                                        <li>Tutor.js</li>
+                                        <li>Sales Representative.js</li>
+                                        <li>Advisory Board Member.js</li>
                                     </ul>
                             </ul>
                         <li>Programming</li>
