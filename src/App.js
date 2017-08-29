@@ -30,7 +30,9 @@ export default class App extends Component {
                 </div>
                 <div id="rightContainer">
                     <div id="source">
+
                         <SourceCode tabs={this.state.tabs}/>
+
                     </div>
                     <div id="content">
                         <ContentPage tabs={this.state.tabs}/>

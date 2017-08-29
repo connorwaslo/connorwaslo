@@ -4,7 +4,7 @@ h1 {
     margin-bottom: 1px;
 }
 
-h3 {
+#aboutContainer h3 {
     font-size: 18px;
     text-align: center;
     margin-top: 3px;
@@ -12,6 +12,7 @@ h3 {
 
 p {
     font-size: 16px;
+    color: black;
     margin: 10px;
 }
 

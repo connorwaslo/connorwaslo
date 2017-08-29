@@ -1,5 +1,4 @@
 nav {
-    min-width: 250px;
     width: 77vw;
     height: 7vh;
     background-color: #2E86C1;
@@ -12,12 +11,24 @@ nav ul button {
     display: inline-block;
     list-style-type: none;
     text-decoration: none;
-    font-size: 3vh;
     padding: 1vh 3vw 1vh 3vw;
     border: none;
     border-left: 1px solid black;
     border-bottom: 1px solid black;
     cursor: pointer;
+    font-family: HelvLight;
+}
+
+@media (min-height: 500px) {
+    nav ul button {
+        font-size: 3vh;
+    }
+}
+
+@media (max-height: 500px) {
+    nav ul button {
+        font-size: 14px;
+    }
 }
 
 #rightTab {

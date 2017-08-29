@@ -1,24 +1,54 @@
+/* TODO: Make InfoBar text a product of vh so that it fits naturally into div */
+/* TODO: Change padding on left side of InfoBar points */
+
 #infoBarContainer {
     width: 23vw;
     height: 100vh;
     background-color: #2E86C1;
     overflow: auto;
+    white-space: nowrap;
+    font-family: HelvLight;
+}
+
+@media (min-width: 600px) {
+    #infoBarContainer {
+        font-size: 16px;
+    }
+
+    ul {
+        padding-left: 2vw;
+    }
+}
+
+@media (max-width: 600px) {
+    #infoBarContainer {
+        font-size: 12px;
+    }
+
+    ul {
+        padding-left: 10px;
+    }
 }
 
 #infoListOuter {
-    padding: 1vh 0 0 3vw;
+    padding: 1vh 0 0 2vw;
 }
 
 ul {
     margin: 0;
+
 }
 
 .paddedList {
-    margin: .2vw;
+    margin: .1vw;
 }
 
 .paddedList li {
-    margin: .2vw;
+    margin: .1vw;
+}
+
+.wrappable {
+    white-space: pre-wrap;
 }
 
 ul#infoListOuter li {

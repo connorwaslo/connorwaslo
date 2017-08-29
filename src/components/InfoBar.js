@@ -24,9 +24,9 @@ export class InfoBar extends React.Component {
                             </ul>
                         <li>Business</li>
                             <ul id="infoListBusiness" className="paddedList">
-                                <li>The Genius Factory (Tutoring Startup)</li>
+                                <li className="wrappable">The Genius Factory (Tutoring Startup)</li>
                                     <ul id="theGeniusFactory" className="paddedList">
-                                        <li>Software Development Intern</li>
+                                        <li>Software Developer</li>
                                         <li>Tutor</li>
                                         <li>Sales Representative</li>
                                         <li>Advisory Board Member</li>
