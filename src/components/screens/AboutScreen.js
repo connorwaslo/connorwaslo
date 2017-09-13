@@ -24,9 +24,9 @@ export class AboutScreen extends React.Component {
                     </p>
                 </div>
 
-                <div id="resume">
+                {/*<div id="resume">
                     <button onClick={this._openResume.bind(this)}>Resume</button>
-                </div>
+                </div>*/}
             </div>
         );
     }

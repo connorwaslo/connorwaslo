@@ -2,6 +2,7 @@
     overflow: hidden;
     background-color: #215e87;
     min-width: 800px;
+    height: auto;
 }
 
 #leftContainer {
@@ -50,7 +51,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #163B54;
+    background-color: #0b1f2d;
 }
 
 ::-webkit-scrollbar-corner {

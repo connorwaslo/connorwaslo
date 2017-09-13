@@ -16,6 +16,10 @@ p {
     margin: 10px;
 }
 
+pre code {
+    white-space: pre;
+}
+
 #para1 p b {
     font-size: 18px;
 }

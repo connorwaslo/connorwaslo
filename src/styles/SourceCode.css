@@ -1,22 +1,24 @@
+.spaceBelow {
+    margin-bottom: 20px;
+}
+
 #sourceContainer {
     min-width: 300px;
     width: 25vw;
     height: 93vh;
     border-right: 2px solid black;
     overflow: auto;
+    background-color: #163B54;
+    color: #dfdeda;
 }
 
-#sourceContainer img {
-    width: 55vw;
-    height: 92.5vh;
-    overflow: scroll;
-}
-
-#aboutSourceContainer {
-    background-color: silver;
+#aboutSourceContainer dl {
     min-width: 300px;
-    width: 55vw;
-    height: 92.5vh;
+    width: 24.7vw;
+    height: 91.8vh;
+    padding-left: 10px;
+    border: none;
+    white-space: pre;
 }
 
 #skillsSourceContainer {
@@ -24,18 +26,25 @@
     width: 55vw;
     height: 92.5vh;
 }
+
 #portfolioSourceContainer {
     background-color: green;
     width: 55vw;
     height: 92.5vh;
 }
+
 #educationSourceContainer {
     background-color: blue;
     width: 55vw;
     height: 92.5vh;
 }
+
 #contactSourceContainer {
     background-color: purple;
     width: 55vw;
     height: 92.5vh;
+}
+
+code dl {
+    margin: 0;
 }

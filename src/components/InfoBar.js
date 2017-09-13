@@ -13,7 +13,7 @@ export class InfoBar extends React.Component {
                     <ul id="infoListMiddle" className="paddedList">
                         <li>BASIS Phoenix</li>
                             <ul id="infoListSchool" className="paddedList">
-                                <li>4.00 GPA</li>
+                                <li>4.78 GPA</li>
                                 <li>15 AP Exams</li>
                                 <li>Student of the Year 2014-17</li>
                             </ul>
